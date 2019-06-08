@@ -1,0 +1,1 @@
+I used/modified this to solve both the singlebyte XOR and multibit XOR. maybe I will do a writeup later or develop a more fully functional tool. If anyone is interested, shoot me an email at stefsec0x03@gmail.com and I gotchu.
